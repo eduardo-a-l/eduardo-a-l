@@ -4,9 +4,11 @@
 
 ## Competitive Programming Resources
 
-### Roadmap
+### References & Roadmaps
 - **[NOIC OBI Roadmap](https://noic.com.br/materiais-informatica/roteiro-de-estudos/)** — Best OBI roadmap available.
   > Some problem links on the site aren't working, but you can copy the link, grab the problem ID/number, and search for it on the equivalent site. The roadmap is fully in C++, which is currently required for IOI.
+- **[USACO Guide](https://usaco.guide/)** — Well-structured roadmap with curated problems organized by difficulty. Great complement to NOIC's roadmap even if you're not doing USACO.
+- **[CP-Algorithms](https://cp-algorithms.com/)** — Reference for algorithms and data structures with C++ implementations. Useful to consult when studying a specific topic.
 
 ---
 
