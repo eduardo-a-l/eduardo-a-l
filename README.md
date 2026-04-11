@@ -31,6 +31,8 @@
   - **[Codeforces](https://codeforces.com/problemset)** — O site de programação competitiva mais popular. Os problemas tendem a ser mais desafiadores.
   - **[AtCoder](https://atcoder.jp/)** — Contests bem organizados e com bom equilíbrio de dificuldade. Altamente recomendado para praticar.
 
+  ---
+  
 </details>
 
 ## Competitive Programming Resources
