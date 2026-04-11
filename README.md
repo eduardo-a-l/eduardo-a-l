@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardo-a-l&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eduardo-a-l&layout=compact&theme=radical&hide=html,css,javascript" />
 </p>
 
 ## Competitive Programming Resources
