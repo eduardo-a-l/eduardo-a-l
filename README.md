@@ -2,37 +2,6 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<details>
-  
-  <summary><b>Português</b></summary>
-  
-  ## Recursos de Programação Competitiva
-
-  ### Referências & Roteiros
-  - **[Roteiro de Estudos NOIC](https://noic.com.br/materiais-informatica/roteiro-de-estudos/)** — O melhor roteiro para a OBI disponível.
-    > Alguns links de problemas no site não estão funcionando, mas você pode copiar o link, extrair o ID/número do problema e pesquisá-lo na plataforma original. O roteiro é totalmente em C++, que é a linguagem exigida atualmente para a IOI.
-  - **[Guia USACO](https://usaco.guide/)** — Roteiro bem estruturado com problemas selecionados por dificuldade. Ótimo complemento ao roteiro do NOIC, mesmo que você não participe da USACO. Também possui uma excelente lista de problemas: (https://usaco.guide/problems)
-  - **[CP-Algorithms](https://cp-algorithms.com/)** — Referência para algoritmos e estruturas de dados com implementações em C++. Útil para consulta ao estudar tópicos específicos.
-  
-  ---
-  
-  ### Juízes Brasileiros
-  - **[Neps Academy](https://neps.academy/br/practice-tests)** — Ótimo para iniciantes e prática para a OBI. Processo de submissão simples.
-  - **[Beecrowd](https://judge.beecrowd.com/pt/categories)** — Grande comunidade brasileira, mas os problemas tornam-se fáceis com o tempo e a experiência mobile é limitada. Recomendado quando indicado no roteiro do NOIC, mas sinta-se livre para explorar.
-  - **[SPOJ BR](https://br.spoj.com/problems/obi/)** — Use preferencialmente quando indicado no roteiro do NOIC.
-  
-  ---
-  
-  ### Juízes Internacionais
-  - **[VJudge](https://vjudge.net/problem)** — Útil para buscar problemas do UVA, já que o site original do UVA costuma apresentar instabilidades. Use principalmente se o UVA aparecer no roteiro do NOIC.
-  - **[CSES Problem Set](https://cses.fi/problemset/)** — Organizado por tópicos, do nível intermediário ao avançado. Altamente recomendado para submissões.
-  - **[Codeforces](https://codeforces.com/problemset)** — O site de programação competitiva mais popular. Os problemas tendem a ser mais desafiadores.
-  - **[AtCoder](https://atcoder.jp/)** — Contests bem organizados e com bom equilíbrio de dificuldade. Altamente recomendado para praticar.
-
-  ---
-  
-</details>
-
 ## Competitive Programming Resources
 
 ### References & Roadmaps
