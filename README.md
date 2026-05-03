@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="images/Adachi.jpeg" width="500"/>
+  <img src="images/image1.jpeg"/>
 </p>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Competitive Programming Resources
@@ -28,3 +29,7 @@
 - **[CSES Problem Set](https://cses.fi/problemset/)** — Organized by topic, intermediate to advanced. Highly recommended for submissions.
 - **[Codeforces](https://codeforces.com/problemset)** — Most popular competitive programming site. Problems tend to be harder.
 - **[AtCoder](https://atcoder.jp/)** — Well-scheduled contests with good difficulty balancing. Highly recommended for submissions.
+
+<p align="center">
+  <img src="images/image2.jpeg"/>
+</p>
