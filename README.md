@@ -10,7 +10,7 @@
 
 Focused on algorithms, data structures, and mathematical problem solving.
 Interested in graph theory, discrete mathematics, and efficient solutions.
-Currently training for OBI and exploring the fundamentals of machine learning.
+Currently training for OBI.
 
 ---
 
